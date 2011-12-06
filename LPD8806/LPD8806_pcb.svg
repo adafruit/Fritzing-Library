@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1 Basic//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd'>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.42in" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" x="0px" version="1.1" y="0px" height="0.42in" viewBox="0 0 30.24 30.24" baseProfile="basic" id="Layer_1">
+ <desc >Fritzing footprint SVG</desc>
+ <g  id="silkscreen">
+  <line  fill="none" stroke="#FFFFFF" y1="0.72" stroke-width="0.75" x1="0.72" y2="29.521" x2="0.72"/>
+  <line  fill="none" stroke="#FFFFFF" y1="29.521" stroke-width="0.75" x1="0.72" y2="29.521" x2="29.521"/>
+  <line  fill="none" stroke="#FFFFFF" y1="29.521" stroke-width="0.75" x1="29.521" y2="0.72" x2="29.521"/>
+  <line  fill="none" stroke="#FFFFFF" y1="0.72" stroke-width="0.75" x1="0.72" y2="0.72" x2="11.52"/>
+  <line  fill="none" stroke="#FFFFFF" y1="0.72" stroke-width="0.75" x1="18.72" y2="0.72" x2="29.521"/>
+ </g>
+ <g  id="copper0">
+  <rect  width="3.168" x="2.736" y="2.736" fill="none" height="3.168" stroke="#FFBF00" stroke-width="1.152"/>
+  <circle  fill="none" cx="4.32" cy="4.32" stroke="#FFBF00" id="connector0pad" r="1.584" stroke-width="1.152"/>
+  <circle  fill="none" cx="4.32" cy="11.52" stroke="#FFBF00" id="connector1pad" r="1.584" stroke-width="1.152"/>
+  <circle  fill="none" cx="4.32" cy="18.72" stroke="#FFBF00" id="connector2pad" r="1.584" stroke-width="1.152"/>
+  <circle  fill="none" cx="4.32" cy="25.92" stroke="#FFBF00" id="connector3pad" r="1.584" stroke-width="1.152"/>
+  <circle  fill="none" cx="25.92" cy="25.92" stroke="#FFBF00" id="connector4pad" r="1.584" stroke-width="1.152"/>
+  <circle  fill="none" cx="25.92" cy="18.72" stroke="#FFBF00" id="connector5pad" r="1.584" stroke-width="1.152"/>
+  <circle  fill="none" cx="25.92" cy="11.52" stroke="#FFBF00" id="connector6pad" r="1.584" stroke-width="1.152"/>
+  <circle  fill="none" cx="25.92" cy="4.32" stroke="#FFBF00" id="connector7pad" r="1.584" stroke-width="1.152"/>
+ </g>
+ <g  id="keepout"/>
+ <g  id="soldermask"/>
+ <g  id="outline"/>
+</svg>

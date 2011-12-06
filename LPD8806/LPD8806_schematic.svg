@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1 Basic//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd'>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="3.01625in" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" x="0px" version="1.1" y="0px" height="1.54492in" viewBox="0 0 217.17 111.234" baseProfile="basic" id="Schematic">
+ <g >
+  <g  transform="matrix(1 0 0 1 96.2756 90.6125)">
+   <text  font-family="DroidSans" transform="matrix(1 0 0 1 -21.6277 -53.7177)" font-size="18">LPD8806</text>
+   <text  font-family="DroidSans" transform="matrix(1 0 0 1 -20.8108 -32.1171)" font-size="18">RGB LED</text>
+   <text  font-family="DroidSans" transform="matrix(1 0 0 1 -7.2888 -10.5175)" font-size="18">Strip </text>
+  </g>
+  <text  font-family="DroidSans" transform="matrix(1 0 0 1 176.8262 69.1233)" font-size="10">CO</text>
+  <text  font-family="DroidSans" transform="matrix(1 0 0 1 172.8262 90.3811)" font-size="10">+5V</text>
+  <g >
+   <g >
+    <line  fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" y1="87.734" stroke-width="2.4" x1="194.51" y2="87.734" x2="215.77"/>
+   </g>
+   <g >
+    <line  fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" y1="66.476" stroke-width="2.4" x1="194.51" y2="66.476" x2="215.77"/>
+   </g>
+  </g>
+  <rect  width="170.701" x="23.299" y="1" fill="none" height="108.834" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-width="2.4"/>
+  <g >
+   <g >
+    <line  fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" y1="45.218" stroke-width="2.4" x1="194" y2="45.218" x2="215.26"/>
+   </g>
+  </g>
+  <g >
+   <g >
+    <line  fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" y1="23.96" stroke-width="2.4" x1="194.51" y2="23.96" x2="215.77"/>
+   </g>
+  </g>
+  <text  font-family="DroidSans" transform="matrix(1 0 0 1 175.8262 49.1233)" font-size="10">DO</text>
+  <text  font-family="DroidSans" transform="matrix(1 0 0 1 168.8262 28.1233)" font-size="10">GND</text>
+  <g >
+   <g >
+    <line  fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" y1="87.734" stroke-width="2.4" x1="1.51" y2="87.734" x2="22.77"/>
+   </g>
+   <g >
+    <line  fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" y1="66.476" stroke-width="2.4" x1="1.51" y2="66.476" x2="22.77"/>
+   </g>
+  </g>
+  <g >
+   <g >
+    <line  fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" y1="45.218" stroke-width="2.4" x1="1" y2="45.218" x2="22.26"/>
+   </g>
+  </g>
+  <g >
+   <g >
+    <line  fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" y1="23.96" stroke-width="2.4" x1="1.51" y2="23.96" x2="22.77"/>
+   </g>
+  </g>
+  <text  font-family="DroidSans" transform="matrix(1 0 0 1 26.8262 69.1233)" font-size="10">CI</text>
+  <text  font-family="DroidSans" transform="matrix(1 0 0 1 26.8262 90.3811)" font-size="10">+5V</text>
+  <text  font-family="DroidSans" transform="matrix(1 0 0 1 26.8262 49.1233)" font-size="10">DI</text>
+  <text  font-family="DroidSans" transform="matrix(1 0 0 1 26.8262 28.1233)" font-size="10">GND</text>
+ </g>
+</svg>
