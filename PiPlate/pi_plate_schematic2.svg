@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="212.59842"
+   height="345.47244"
+   id="svg6705">
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="schematic">
+    <rect
+       width="107.54424"
+       height="292.32285"
+       x="53.149605"
+       y="26.574251"
+       id="rect6715"
+       style="fill:none;stroke:#000000;stroke-width:2.18391895;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 182.48032,51.150759 7.08661,4"
+       id="5v1pin"
+       style="fill:none;stroke:none" />
+    <path
+       d="m 182.48031,77.724759 7.08661,4"
+       id="gnd1pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 182.48031,104.29976 7.08661,4"
+       id="iotxdpin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 182.48031,130.87476 7.08661,4"
+       id="iorxdpin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 182.48031,157.44976 7.08661,4"
+       id="io18pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 182.48031,184.02476 7.08661,4"
+       id="io23pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 182.48031,210.59876 7.08661,4"
+       id="io24pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 182.48031,237.17376 7.08661,4"
+       id="io25pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 182.48031,263.74876 7.08661,4"
+       id="iocs0pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 182.48031,290.32376 7.08661,4"
+       id="iocs1pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118112,51.150759 -7.086614,4"
+       id="3v1pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118112,79.724759 -7.086614,4"
+       id="iosdapin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118112,104.29976 -7.086614,4"
+       id="iosclpin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118112,130.87476 -7.086614,4"
+       id="io4pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118112,157.44976 -7.086614,4"
+       id="io17pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118112,184.02476 -7.086614,4"
+       id="io21pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118112,210.59876 -7.086614,4"
+       id="io22pin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118112,237.17376 -7.086614,4"
+       id="iomosipin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118111,263.74876 -7.086614,4"
+       id="iomisopin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 30.118111,290.32376 -7.086614,4"
+       id="iosclkpin"
+       style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       transform="translate(1.5018493e-6,-627.16424)"
+       id="text7277"
+       xml:space="preserve"
+       style="font-size:5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.236221"
+   y="683.85822"
+   id="tspan7279"
+   style="font-size:10px">3V3</text>
+
+
+   </g>    <g
+       transform="translate(1.5018493e-6,-627.16424)"
+       id="text7281"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.236221"
+   y="710.43304"
+   id="tspan7283">SDA0</text>
+
+
+   </g>    <g
+       transform="translate(1.5018493e-6,-627.16424)"
+       id="text7285"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.184994"
+   y="738.11755"
+   id="tspan7287">SCL0</text>
+
+
+   </g>    <g
+       transform="translate(1.5018493e-6,-627.16424)"
+       id="text7289"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.349434"
+   y="764.09906"
+   id="tspan7291">#4</text>
+
+
+   </g>    <g
+       transform="translate(1.8010619e-6,-653.73924)"
+       id="text7297"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.236221"
+   y="816.73224"
+   id="tspan7299">#17</text>
+
+
+   </g>    <g
+       transform="translate(1.7380698e-6,-653.73924)"
+       id="text7301"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.236221"
+   y="843.30707"
+   id="tspan7303">#21</text>
+
+
+   </g>    <g
+       transform="translate(1.8010619e-6,-653.73924)"
+       id="text7305"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.236221"
+   y="869.88184"
+   id="tspan7307">#22</text>
+
+
+   </g>    <g
+       transform="translate(1.8010619e-6,-680.31424)"
+       id="text7313"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.236221"
+   y="923.03143"
+   id="tspan7315">MOSI</text>
+
+
+   </g>    <g
+       transform="translate(6.6081371e-7,-680.31424)"
+       id="text7317"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.236221"
+   y="949.60626"
+   id="tspan7319">MISO</text>
+
+
+   </g>    <g
+       transform="translate(6.6081371e-7,-680.31424)"
+       id="text7321"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="60.236221"
+   y="976.18109"
+   id="tspan7323">SCLK</text>
+
+
+   </g>    <g
+       transform="translate(1.5018493e-6,-627.16424)"
+       id="text7329"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="152.36221"
+   y="683.85822"
+   id="tspan7331"
+   style="text-align:end;text-anchor:end">5V0</text>
+
+
+   </g>    <g
+       transform="translate(-6.9085069e-6,-653.73924)"
+       id="text7337"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="152.36221"
+   y="737.00781"
+   id="tspan7339"
+   style="text-align:end;text-anchor:end">GND</text>
+
+
+   </g>    <g
+       transform="translate(-6.9085069e-6,-653.73924)"
+       id="text7341"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="152.36221"
+   y="763.58264"
+   id="tspan7343"
+   style="text-align:end;text-anchor:end">TXD</text>
+
+
+   </g>    <g
+       transform="translate(-6.9085069e-6,-653.73924)"
+       id="text7345"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="152.36221"
+   y="790.15747"
+   id="tspan7347"
+   style="text-align:end;text-anchor:end">RXD</text>
+
+
+   </g>    <g
+       transform="translate(-6.9085069e-6,-653.73924)"
+       id="text7349"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="152.36221"
+   y="816.73224"
+   id="tspan7351"
+   style="text-align:end;text-anchor:end">#18</text>
+
+
+   </g>    <g
+       transform="translate(-6.9085069e-6,-680.31424)"
+       id="text7357"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="152.36221"
+   y="869.88184"
+   id="tspan7359"
+   style="text-align:end;text-anchor:end">#23</text>
+
+
+   </g>    <g
+       transform="translate(-6.9085069e-6,-680.31424)"
+       id="text7361"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="152.36221"
+   y="896.45667"
+   id="tspan7363"
+   style="text-align:end;text-anchor:end">#24</text>
+
+
+   </g>    <g
+       transform="translate(-6.9085068e-6,-706.88924)"
+       id="text7369"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="152.36221"
+   y="949.60626"
+   id="tspan7371"
+   style="text-align:end;text-anchor:end">#25</text>
+
+
+   </g>    <g
+       transform="translate(-6.9085068e-6,-706.88924)"
+       id="text7373"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="152.36221"
+   y="976.18109"
+   id="tspan7375"
+   style="text-align:end;text-anchor:end">CE0</text>
+
+
+   </g>    <g
+       transform="translate(-6.9085068e-6,-706.88924)"
+       id="text7377"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="154.13387"
+   y="1002.7559"
+   id="tspan7379"
+   style="text-align:end;text-anchor:end">CE1</text>
+
+
+   </g>    <g
+       transform="matrix(0,-1,1,0,1.1357999,-661.25824)"
+       id="text7383"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+    <text
+   x="-907.08655"
+   y="113.38583"
+   id="tspan7385"
+   style="font-size:20px">Adafruit Pi Plate</text>
+
+
+   </g>    <path
+       d="m 53.149608,53.150759 -26.574803,0"
+       id="path8699"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 53.149608,79.724759 -26.574803,0"
+       id="path8701"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 53.149608,106.29976 -26.574803,0"
+       id="path8703"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 53.149608,132.87476 -26.574803,0"
+       id="path8705"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 53.149608,159.44976 -26.574803,0"
+       id="path8709"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 53.149608,186.02476 -26.574803,0"
+       id="path8711"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 53.149608,212.59876 -26.574803,0"
+       id="path8713"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 53.149608,239.17376 -26.574803,0"
+       id="path8717"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 53.149607,265.74876 -26.574803,0"
+       id="path8721"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 53.149607,292.32376 -26.574803,0"
+       id="path8723"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44882,53.150759 26.57481,0"
+       id="path8727"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44881,79.724759 26.57481,0"
+       id="path8731"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44881,106.29976 26.57481,0"
+       id="path8733"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44881,132.87476 26.57481,0"
+       id="path8735"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44881,159.44976 26.57481,0"
+       id="path8737"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44881,186.02476 26.57481,0"
+       id="path8741"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44881,212.59876 26.57481,0"
+       id="path8743"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44881,239.17376 26.57481,0"
+       id="path8747"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44881,265.74876 26.57481,0"
+       id="path8749"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 159.44881,292.32376 26.57481,0"
+       id="path8751"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>

@@ -1,0 +1,4078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.7.5b.07.02.6130" moduleId="AdafruitPiPlate10">
+    <author>John De Cristofaro for Adafruit</author>
+    <title>Adafruit Pi Plate for Raspberry Pi</title>
+    <label>Pi</label>
+    <date>2012-07-31</date>
+    <url>https://www.adafruit.com/products/801</url>
+    <tags/>
+    <properties>
+        <property name="family"></property>
+        <property name="part number"></property>
+    </properties>
+    <views>
+        <iconView>
+            <layers image="icon/af_icon.svg">
+                <layer layerId="icon"/>
+            </layers>
+        </iconView>
+        <breadboardView>
+            <layers image="breadboard/pi_plate_breadboard2.svg">
+                <layer layerId="breadboard"/>
+            </layers>
+        </breadboardView>
+        <schematicView>
+            <layers image="schematic/pi_plate_schematic2.svg">
+                <layer layerId="schematic"/>
+            </layers>
+        </schematicView>
+
+    </views>
+    <connectors>
+        <connector id="connector90" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector90pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector140" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector140pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector91" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector91pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector141" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector141pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector92" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector92pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector142" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector142pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector93" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector93pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector143" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector143pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector94" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector94pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector144" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector144pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector95" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector95pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector145" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector145pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector96" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector96pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector146" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector146pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector97" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector97pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector147" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector147pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector98" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector98pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector148" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector148pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector99" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector99pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector149" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector149pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector110" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector110pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector111" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector111pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector112" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector112pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector113" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector113pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector114" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector114pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector115" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector115pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector116" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector116pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector117" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector117pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector118" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector118pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector119" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector119pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector120" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector120pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector121" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector121pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector122" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector122pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector123" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector123pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector124" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector124pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector125" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector125pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector126" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector126pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector127" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector127pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector128" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector128pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector129" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector129pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector100" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector100pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector101" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector101pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector102" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector102pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector103" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector103pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector104" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector104pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector105" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector105pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector106" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector106pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector107" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector107pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector108" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector108pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector109" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector109pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector10" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector11" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector12" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector13" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector14" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector14pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector15" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector15pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector16" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector16pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector17" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector17pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector18" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector18pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector19" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector19pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector20" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector20pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector21" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector21pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector22" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector22pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector23" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector23pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector24" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector24pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector25" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector25pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector26" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector26pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector27" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector27pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector28" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector28pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector29" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector29pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector30" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector30pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector31" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector31pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector32" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector32pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector33" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector33pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector34" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector34pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector35" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector35pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector36" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector36pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector37" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector37pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector4" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector38" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector38pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector5" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector39" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector39pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector6" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector7" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector8" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector9" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector40" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector40pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector41" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector41pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector42" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector42pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector43" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector43pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector44" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector44pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector45" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector45pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector46" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector46pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector47" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector47pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector48" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector48pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector49" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector49pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector50" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector50pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector51" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector51pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector52" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector52pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector53" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector53pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector54" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector54pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector55" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector55pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector56" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector56pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector57" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector57pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector58" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector58pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector59" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector59pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector150" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector150pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector60" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector60pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector151" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector151pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector61" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector61pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector152" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector152pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector62" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector62pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector153" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector153pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector63" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector63pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector154" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector154pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector64" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector64pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector155" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector155pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector65" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector65pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector156" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector156pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector66" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector66pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector157" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector157pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector67" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector67pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector158" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector158pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector68" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector68pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector159" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector159pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector69" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector69pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector160" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector160pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector70" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector70pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector161" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector161pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector71" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector71pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector162" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector162pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector72" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector72pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector163" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector163pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector73" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector73pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector164" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector164pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector74" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector74pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector165" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector165pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector75" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector75pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector166" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector166pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector76" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector76pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector167" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector167pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector77" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector77pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector168" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector168pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector78" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector78pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector79" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector79pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector80" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector80pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector130" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector130pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector81" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector81pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector131" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector131pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector82" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector82pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector132" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector132pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector83" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector83pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector133" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector133pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector84" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector84pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector134" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector134pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector85" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector85pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector135" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector135pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector86" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector86pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector136" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector136pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector87" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector87pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector137" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector137pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector88" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector88pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector138" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector138pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector89" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector89pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector139" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="connector139pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1001" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1002" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1003" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1004" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1005" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1006" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1007" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1008" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1009" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1010" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1011" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1012" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1013" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1014" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1015" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1016" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1017" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1018" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1019" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1020" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1021" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1022" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1023" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1024" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1025" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1026" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1027" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1028" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1029" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1030" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1031" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1032" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1033" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1034" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1035" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1036" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1037" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1038" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1039" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1040" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1041" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1042" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1043" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1044" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1045" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1046" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1047" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1048" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1049" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1050" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1051" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1052" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1053" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1054" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1055" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1056" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1057" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1058" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1059" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1060" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1061" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1062" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1063" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1064" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1065" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1066" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1067" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1068" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1069" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1070" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1071" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1072" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1073" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1074" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1075" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1076" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1077" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1078" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1079" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1080" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1081" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1082" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1083" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1084" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1085" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1086" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1087" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1088" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1089" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1090" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1091" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1092" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1093" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1094" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1095" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1096" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1097" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1098" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1099" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1100" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1101" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1102" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1103" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1104" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1105" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1106" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1107" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1108" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1109" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1110" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1111" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1112" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1113" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1114" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1115" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1116" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1117" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1118" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1119" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1120" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1121" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="a13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1122" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="b13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1123" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="c13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1124" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="d13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1125" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="e13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector1126" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="h13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1127" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="i13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1128" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="j13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1129" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="k13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector1130" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="l13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector2001" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2002" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2003" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2004" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2005" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2006" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2007" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2008" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2009" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2010" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2011" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2012" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector2013" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="f13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector3001" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3002" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3003" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3004" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3005" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g5pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3006" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g6pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3007" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g7pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3008" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3009" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g9pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3010" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3011" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3012" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector3013" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="g13pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10001" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iosdapad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10002" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iosclpad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10003" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iotxdpad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10004" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iorxdpad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10005" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io17pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10006" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io18pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10007" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io21pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10008" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io22pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10009" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io23pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10010" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io24pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10011" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io25pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10012" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io4pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10013" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iocs1pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10014" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iocs0pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10015" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iosclkpad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10016" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iomisopad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10017" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iomosipad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10021" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="user1pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10022" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="user2pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10023" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="user3pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10024" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="user4pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10101" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="5v1pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10102" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="5v2pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10103" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="3v1pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10104" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="3v2pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10105" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="gnd1pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10106" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="gnd2pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10107" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="gnd3pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector10108" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="gnd4pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+
+        <connector id="connector20001" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iosdapin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="iosdapin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20002" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iosclpin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="iosclpin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20003" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iotxdpin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="iotxdpin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20004" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iorxdpin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="iorxdpin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20005" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io17pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="io17pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20006" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io18pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="io18pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20007" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io21pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="io21pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20008" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io22pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="io22pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20009" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io23pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="io23pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20010" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io24pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="io24pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20011" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io25pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="io25pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20012" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="io4pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="io4pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+       <connector id="connector20013" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iocs1pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="iocs1pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20014" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iocs0pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="iocs0pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20015" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iosclkpin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="iosclkpin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20016" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iomisopin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="iomisopin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20017" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="iomosipin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="iomosipin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+       <connector id="connector20021" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="user1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector20022" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="user2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector20023" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="user3pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector20024" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="user4pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+         <connector id="connector20101" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="5v1pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="5v1pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20103" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="3v1pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="3v1pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20104" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="3v2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector20105" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="gnd1pin"/>
+                </breadboardView>
+                <schematicView>
+                    <p layer="schematic" svgId="gnd1pin"/>
+                </schematicView>
+            </views>
+        </connector>
+
+        <connector id="connector20106" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="gnd2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+
+        <connector id="connector30001" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd1pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector30002" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd2pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector30003" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd3pin"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector30004" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd4pin"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector30005" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd5pin"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector30006" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd6pin"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector30007" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd7pin"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector30008" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd8pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+	<connector id="connector30009" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd9pin"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector30010" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd10pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector30011" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd11pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector30012" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd12pin"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector30013" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd13pin"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector30014" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd14pin"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector30015" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd15pin"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector30016" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd16pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+
+        <connector id="connector40001" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd1pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector40002" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd2pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector40003" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd3pad"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector40004" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd4pad"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector40005" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd5pad"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector40006" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd6pad"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector40007" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd7pad"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector40008" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd8pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+	<connector id="connector40009" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd9pad"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector40010" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd10pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector40011" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd11pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector40012" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd12pad"/>
+                </breadboardView>
+            </views>
+        </connector>
+        <connector id="connector40013" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd13pad"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector40014" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd14pad"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector40015" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd15pad"/>
+                </breadboardView>
+            </views>
+        </connector>        
+	<connector id="connector40016" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="smd16pad"/>
+                </breadboardView>
+            </views>
+        </connector>   
+
+	<connector id="connector50001" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi1pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50002" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi2pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50003" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi3pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50004" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi4pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50005" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi5pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50006" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi6pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50007" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi7pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50008" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi8pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50009" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi9pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50010" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi10pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+
+	<connector id="connector50011" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi11pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50012" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi12pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50013" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi13pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50014" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi14pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50015" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi15pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50016" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi16pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50017" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi17pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50018" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi18pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50019" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi19pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50020" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi20pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+
+	<connector id="connector50021" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi21pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50022" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi22pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50023" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi23pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50024" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi24pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50025" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi25pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+	<connector id="connector50026" type="female" name="no name yet">
+            <description>no description yet</description>
+            <views>
+                <breadboardView>
+                    <p layer="breadboard" svgId="rpi26pin"/>
+                </breadboardView>
+            </views>
+        </connector>   
+
+
+    </connectors>
+
+ <buses>
+  <bus id="a1">
+   <nodeMember connectorId="connector1001"/>
+   <nodeMember connectorId="connector1002"/>
+   <nodeMember connectorId="connector1003"/>
+   <nodeMember connectorId="connector1004"/>
+   <nodeMember connectorId="connector1005"/>
+  </bus>
+
+  <bus id="h1">
+   <nodeMember connectorId="connector1006"/>
+   <nodeMember connectorId="connector1007"/>
+   <nodeMember connectorId="connector1008"/>
+   <nodeMember connectorId="connector1009"/>
+   <nodeMember connectorId="connector1010"/>
+  </bus>
+
+  <bus id="a2">
+   <nodeMember connectorId="connector1011"/>
+   <nodeMember connectorId="connector1012"/>
+   <nodeMember connectorId="connector1013"/>
+   <nodeMember connectorId="connector1014"/>
+   <nodeMember connectorId="connector1015"/>
+  </bus>
+
+  <bus id="h2">
+   <nodeMember connectorId="connector1016"/>
+   <nodeMember connectorId="connector1017"/>
+   <nodeMember connectorId="connector1018"/>
+   <nodeMember connectorId="connector1019"/>
+   <nodeMember connectorId="connector1020"/>
+  </bus>
+
+  <bus id="a3">
+   <nodeMember connectorId="connector1021"/>
+   <nodeMember connectorId="connector1022"/>
+   <nodeMember connectorId="connector1023"/>
+   <nodeMember connectorId="connector1024"/>
+   <nodeMember connectorId="connector1025"/>
+  </bus>
+
+  <bus id="h3">
+   <nodeMember connectorId="connector1026"/>
+   <nodeMember connectorId="connector1027"/>
+   <nodeMember connectorId="connector1028"/>
+   <nodeMember connectorId="connector1029"/>
+   <nodeMember connectorId="connector1030"/>
+  </bus>
+
+  <bus id="a4">
+   <nodeMember connectorId="connector1031"/>
+   <nodeMember connectorId="connector1032"/>
+   <nodeMember connectorId="connector1033"/>
+   <nodeMember connectorId="connector1034"/>
+   <nodeMember connectorId="connector1035"/>
+  </bus>
+
+  <bus id="h4">
+   <nodeMember connectorId="connector1036"/>
+   <nodeMember connectorId="connector1037"/>
+   <nodeMember connectorId="connector1038"/>
+   <nodeMember connectorId="connector1039"/>
+   <nodeMember connectorId="connector1040"/>
+  </bus>
+
+  <bus id="a5">
+   <nodeMember connectorId="connector1041"/>
+   <nodeMember connectorId="connector1042"/>
+   <nodeMember connectorId="connector1043"/>
+   <nodeMember connectorId="connector1044"/>
+   <nodeMember connectorId="connector1045"/>
+  </bus>
+
+  <bus id="h5">
+   <nodeMember connectorId="connector1046"/>
+   <nodeMember connectorId="connector1047"/>
+   <nodeMember connectorId="connector1048"/>
+   <nodeMember connectorId="connector1049"/>
+   <nodeMember connectorId="connector1050"/>
+  </bus>
+
+  <bus id="a6">
+   <nodeMember connectorId="connector1051"/>
+   <nodeMember connectorId="connector1052"/>
+   <nodeMember connectorId="connector1053"/>
+   <nodeMember connectorId="connector1054"/>
+   <nodeMember connectorId="connector1055"/>
+  </bus>
+
+  <bus id="h6">
+   <nodeMember connectorId="connector1056"/>
+   <nodeMember connectorId="connector1057"/>
+   <nodeMember connectorId="connector1058"/>
+   <nodeMember connectorId="connector1059"/>
+   <nodeMember connectorId="connector1060"/>
+  </bus>
+
+  <bus id="a7">
+   <nodeMember connectorId="connector1061"/>
+   <nodeMember connectorId="connector1062"/>
+   <nodeMember connectorId="connector1063"/>
+   <nodeMember connectorId="connector1064"/>
+   <nodeMember connectorId="connector1065"/>
+  </bus>
+
+  <bus id="h7">
+   <nodeMember connectorId="connector1066"/>
+   <nodeMember connectorId="connector1067"/>
+   <nodeMember connectorId="connector1068"/>
+   <nodeMember connectorId="connector1069"/>
+   <nodeMember connectorId="connector1070"/>
+  </bus>
+
+  <bus id="a8">
+   <nodeMember connectorId="connector1071"/>
+   <nodeMember connectorId="connector1072"/>
+   <nodeMember connectorId="connector1073"/>
+   <nodeMember connectorId="connector1074"/>
+   <nodeMember connectorId="connector1075"/>
+  </bus>
+
+  <bus id="h8">
+   <nodeMember connectorId="connector1076"/>
+   <nodeMember connectorId="connector1077"/>
+   <nodeMember connectorId="connector1078"/>
+   <nodeMember connectorId="connector1079"/>
+   <nodeMember connectorId="connector1080"/>
+  </bus>
+
+  <bus id="a9">
+   <nodeMember connectorId="connector1081"/>
+   <nodeMember connectorId="connector1082"/>
+   <nodeMember connectorId="connector1083"/>
+   <nodeMember connectorId="connector1084"/>
+   <nodeMember connectorId="connector1085"/>
+  </bus>
+
+  <bus id="h9">
+   <nodeMember connectorId="connector1086"/>
+   <nodeMember connectorId="connector1087"/>
+   <nodeMember connectorId="connector1088"/>
+   <nodeMember connectorId="connector1089"/>
+   <nodeMember connectorId="connector1090"/>
+  </bus>
+
+  <bus id="a10">
+   <nodeMember connectorId="connector1091"/>
+   <nodeMember connectorId="connector1092"/>
+   <nodeMember connectorId="connector1093"/>
+   <nodeMember connectorId="connector1094"/>
+   <nodeMember connectorId="connector1095"/>
+  </bus>
+
+  <bus id="h10">
+   <nodeMember connectorId="connector1096"/>
+   <nodeMember connectorId="connector1097"/>
+   <nodeMember connectorId="connector1098"/>
+   <nodeMember connectorId="connector1099"/>
+   <nodeMember connectorId="connector1100"/>
+  </bus>
+
+  <bus id="a11">
+   <nodeMember connectorId="connector1101"/>
+   <nodeMember connectorId="connector1102"/>
+   <nodeMember connectorId="connector1103"/>
+   <nodeMember connectorId="connector1104"/>
+   <nodeMember connectorId="connector1105"/>
+  </bus>
+
+  <bus id="h11">
+   <nodeMember connectorId="connector1106"/>
+   <nodeMember connectorId="connector1107"/>
+   <nodeMember connectorId="connector1108"/>
+   <nodeMember connectorId="connector1109"/>
+   <nodeMember connectorId="connector1110"/>
+  </bus>
+
+  <bus id="a12">
+   <nodeMember connectorId="connector1111"/>
+   <nodeMember connectorId="connector1112"/>
+   <nodeMember connectorId="connector1113"/>
+   <nodeMember connectorId="connector1114"/>
+   <nodeMember connectorId="connector1115"/>
+  </bus>
+
+  <bus id="h12">
+   <nodeMember connectorId="connector1116"/>
+   <nodeMember connectorId="connector1117"/>
+   <nodeMember connectorId="connector1118"/>
+   <nodeMember connectorId="connector1119"/>
+   <nodeMember connectorId="connector1120"/>
+  </bus>
+
+  <bus id="a13">
+   <nodeMember connectorId="connector1121"/>
+   <nodeMember connectorId="connector1122"/>
+   <nodeMember connectorId="connector1123"/>
+   <nodeMember connectorId="connector1124"/>
+   <nodeMember connectorId="connector1125"/>
+  </bus>
+
+  <bus id="h13">
+   <nodeMember connectorId="connector1126"/>
+   <nodeMember connectorId="connector1127"/>
+   <nodeMember connectorId="connector1128"/>
+   <nodeMember connectorId="connector1129"/>
+   <nodeMember connectorId="connector1120"/>
+  </bus>
+
+  <bus id="f1">
+   <nodeMember connectorId="connector2001"/>
+   <nodeMember connectorId="connector2002"/>
+   <nodeMember connectorId="connector2003"/>
+   <nodeMember connectorId="connector2004"/>
+   <nodeMember connectorId="connector2005"/>
+   <nodeMember connectorId="connector2006"/>
+   <nodeMember connectorId="connector2007"/>
+   <nodeMember connectorId="connector2008"/>
+   <nodeMember connectorId="connector2009"/>
+   <nodeMember connectorId="connector2010"/>
+   <nodeMember connectorId="connector2011"/>
+   <nodeMember connectorId="connector2012"/>
+   <nodeMember connectorId="connector2013"/>
+  </bus>
+
+  <bus id="g1">
+   <nodeMember connectorId="connector3001"/>
+   <nodeMember connectorId="connector3002"/>
+   <nodeMember connectorId="connector3003"/>
+   <nodeMember connectorId="connector3004"/>
+   <nodeMember connectorId="connector3005"/>
+   <nodeMember connectorId="connector3006"/>
+   <nodeMember connectorId="connector3007"/>
+   <nodeMember connectorId="connector3008"/>
+   <nodeMember connectorId="connector3009"/>
+   <nodeMember connectorId="connector3010"/>
+   <nodeMember connectorId="connector3011"/>
+   <nodeMember connectorId="connector3012"/>
+   <nodeMember connectorId="connector3013"/>
+  </bus>
+
+  <bus id="iosdabus">
+   <nodeMember connectorId="connector10001"/>
+   <nodeMember connectorId="connector20001"/>
+   <nodeMember connectorId="connector120001"/>
+  </bus>
+
+  <bus id="iosclbus">
+   <nodeMember connectorId="connector10002"/>
+   <nodeMember connectorId="connector20002"/>
+   <nodeMember connectorId="connector120002"/>
+  </bus>
+
+  <bus id="iotxdbus">
+   <nodeMember connectorId="connector10003"/>
+   <nodeMember connectorId="connector20003"/>
+   <nodeMember connectorId="connector120003"/>
+  </bus>
+
+  <bus id="iorxdbus">
+   <nodeMember connectorId="connector10004"/>
+   <nodeMember connectorId="connector20004"/>
+   <nodeMember connectorId="connector120004"/>
+  </bus>
+
+  <bus id="io17bus">
+   <nodeMember connectorId="connector10005"/>
+   <nodeMember connectorId="connector20005"/>
+   <nodeMember connectorId="connector120005"/>
+  </bus>
+
+  <bus id="io18bus">
+   <nodeMember connectorId="connector10006"/>
+   <nodeMember connectorId="connector20006"/>
+   <nodeMember connectorId="connector120006"/>
+  </bus>
+
+  <bus id="io21bus">
+   <nodeMember connectorId="connector10007"/>
+   <nodeMember connectorId="connector20007"/>
+   <nodeMember connectorId="connector120007"/>
+  </bus>
+
+  <bus id="io22bus">
+   <nodeMember connectorId="connector10008"/>
+   <nodeMember connectorId="connector20008"/>
+   <nodeMember connectorId="connector120008"/>
+  </bus>
+
+  <bus id="io23bus">
+   <nodeMember connectorId="connector10009"/>
+   <nodeMember connectorId="connector20009"/>
+   <nodeMember connectorId="connector120009"/>
+  </bus>
+
+  <bus id="io24bus">
+   <nodeMember connectorId="connector10010"/>
+   <nodeMember connectorId="connector20010"/>
+   <nodeMember connectorId="connector120010"/>
+  </bus>
+
+  <bus id="io25bus">
+   <nodeMember connectorId="connector10011"/>
+   <nodeMember connectorId="connector20011"/>
+   <nodeMember connectorId="connector120011"/>
+  </bus>
+
+  <bus id="io4bus">
+   <nodeMember connectorId="connector10012"/>
+   <nodeMember connectorId="connector20012"/>
+   <nodeMember connectorId="connector120012"/>
+  </bus>
+
+  <bus id="iocs1bus">
+   <nodeMember connectorId="connector10013"/>
+   <nodeMember connectorId="connector20013"/>
+   <nodeMember connectorId="connector120013"/>
+  </bus>
+
+  <bus id="iocs0bus">
+   <nodeMember connectorId="connector10014"/>
+   <nodeMember connectorId="connector20014"/>
+   <nodeMember connectorId="connector120014"/>
+  </bus>
+
+  <bus id="iosclkbus">
+   <nodeMember connectorId="connector10015"/>
+   <nodeMember connectorId="connector20015"/>
+   <nodeMember connectorId="connector120015"/>
+  </bus>
+
+  <bus id="iomisobus">
+   <nodeMember connectorId="connector10016"/>
+   <nodeMember connectorId="connector20016"/>
+   <nodeMember connectorId="connector120016"/>
+  </bus>
+
+  <bus id="iomosibus">
+   <nodeMember connectorId="connector10017"/>
+   <nodeMember connectorId="connector20017"/>
+   <nodeMember connectorId="connector120017"/>
+  </bus>
+
+  <bus id="user1bus">
+   <nodeMember connectorId="connector10021"/>
+   <nodeMember connectorId="connector20021"/>
+   <nodeMember connectorId="connector120021"/>
+  </bus>
+
+  <bus id="user2bus">
+   <nodeMember connectorId="connector10022"/>
+   <nodeMember connectorId="connector20022"/>
+   <nodeMember connectorId="connector120022"/>
+  </bus>
+
+  <bus id="user3bus">
+   <nodeMember connectorId="connector10023"/>
+   <nodeMember connectorId="connector20023"/>
+   <nodeMember connectorId="connector120023"/>
+  </bus>
+
+  <bus id="user4bus">
+   <nodeMember connectorId="connector10024"/>
+   <nodeMember connectorId="connector20024"/>
+   <nodeMember connectorId="connector120024"/>
+  </bus>
+
+  <bus id="5v_bus">
+   <nodeMember connectorId="connector10101"/>
+   <nodeMember connectorId="connector10102"/>
+   <nodeMember connectorId="connector20101"/>
+   <nodeMember connectorId="connector120101"/>
+  </bus>
+
+  <bus id="3v_bus">
+   <nodeMember connectorId="connector10103"/>
+   <nodeMember connectorId="connector10104"/>
+   <nodeMember connectorId="connector20103"/>
+   <nodeMember connectorId="connector20104"/>
+   <nodeMember connectorId="connector120103"/>
+  </bus>
+
+  <bus id="gnd_bus">
+   <nodeMember connectorId="connector10105"/>
+   <nodeMember connectorId="connector10106"/>
+   <nodeMember connectorId="connector10107"/>
+   <nodeMember connectorId="connector10108"/>
+   <nodeMember connectorId="connector20105"/>
+   <nodeMember connectorId="connector120105"/>
+   <nodeMember connectorId="connector20106"/>
+  </bus>
+
+
+
+
+ </buses>
+
+</module>
