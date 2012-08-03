@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="212.59842" version="1.1" height="425.19684" id="svg6705">
+ <defs  id="defs3"/>
+ <metadata  id="metadata4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+    <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g  id="layer1" transform="translate(0,-627.16533)">
+  <g  id="schematic">
+   <rect  width="107.54424" x="53.149605" y="653.74011" height="372.04724" style="fill:none;stroke:#000000;stroke-width:2.4637928;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect6715"/>
+   <path  style="fill:none;stroke:none" id="connector2pin" d="m 182.48032,680.31493 7.08661,0"/>
+   <path  style="fill:none;stroke:none" id="connector4pin" d="m 182.48032,706.88973 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector6pin" d="m 182.48032,733.46453 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector8pin" d="m 182.48032,760.03933 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector10pin" d="m 182.48032,786.61414 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector12pin" d="m 182.48032,813.18894 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector14pin" d="m 182.48032,839.76374 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector16pin" d="m 182.48032,866.33855 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector18pin" d="m 182.48032,892.91335 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector20pin" d="m 182.48032,919.48815 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector22pin" d="m 182.48032,946.06296 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector24pin" d="m 182.48032,972.63776 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector26pin" d="m 182.48032,999.21256 7.08661,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector1pin" d="m 30.11811,680.31493 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector3pin" d="m 30.11811,706.88973 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector5pin" d="m 30.11811,733.46453 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector7pin" d="m 30.11811,760.03933 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector9pin" d="m 30.11811,786.61414 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector11pin" d="m 30.11811,813.18894 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector13pin" d="m 30.11811,839.76374 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector15pin" d="m 30.11811,866.33855 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector17pin" d="m 30.11811,892.91335 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector19pin" d="m 30.11811,919.48815 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector21pin" d="m 30.11811,946.06296 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector23pin" d="m 30.11811,972.63776 -7.086614,0"/>
+   <path  style="color:#000000;fill:none;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="connector25pin" d="m 30.11811,999.21256 -7.086614,0"/>
+   <g style="font-size:5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7277" xml:space="preserve">
+    <text x="60.236221" y="683.85822" style="font-size:10px" id="tspan7279">3V3</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7281" xml:space="preserve">
+    <text x="60.236221" y="710.43304" id="tspan7283">SDA0</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7285" xml:space="preserve">
+    <text x="60.184994" y="738.11755" id="tspan7287">SCL0</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7289" xml:space="preserve">
+    <text x="60.349434" y="764.09906" id="tspan7291">#4</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7293" xml:space="preserve">
+    <text x="60.236221" y="790.15747" id="tspan7295">DNC</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7297" xml:space="preserve">
+    <text x="60.236221" y="816.73224" id="tspan7299">#17</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7301" xml:space="preserve">
+    <text x="60.236221" y="843.30707" id="tspan7303">#21</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7305" xml:space="preserve">
+    <text x="60.236221" y="869.88184" id="tspan7307">#22</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7309" xml:space="preserve">
+    <text x="60.236221" y="896.45667" id="tspan7311">DNC</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7313" xml:space="preserve">
+    <text x="60.236221" y="923.03143" id="tspan7315">MOSI</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7317" xml:space="preserve">
+    <text x="60.236221" y="949.60626" id="tspan7319">MISO</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7321" xml:space="preserve">
+    <text x="60.236221" y="976.18109" id="tspan7323">SCLK</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7325" xml:space="preserve">
+    <text x="60.236221" y="1002.7559" id="tspan7327">DNC</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7329" xml:space="preserve">
+    <text x="152.36221" y="683.85822" style="text-align:end;text-anchor:end" id="tspan7331">5V0</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7333" xml:space="preserve">
+    <text x="152.36221" y="710.43304" style="text-align:end;text-anchor:end" id="tspan7335">DNC</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7337" xml:space="preserve">
+    <text x="152.36221" y="737.00781" style="text-align:end;text-anchor:end" id="tspan7339">GND</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7341" xml:space="preserve">
+    <text x="152.36221" y="763.58264" style="text-align:end;text-anchor:end" id="tspan7343">TXD</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7345" xml:space="preserve">
+    <text x="152.36221" y="790.15747" style="text-align:end;text-anchor:end" id="tspan7347">RXD</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7349" xml:space="preserve">
+    <text x="152.36221" y="816.73224" style="text-align:end;text-anchor:end" id="tspan7351">#18</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7353" xml:space="preserve">
+    <text x="152.36221" y="843.30707" style="text-align:end;text-anchor:end" id="tspan7355">DNC</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7357" xml:space="preserve">
+    <text x="152.36221" y="869.88184" style="text-align:end;text-anchor:end" id="tspan7359">#23</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7361" xml:space="preserve">
+    <text x="152.36221" y="896.45667" style="text-align:end;text-anchor:end" id="tspan7363">#24</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7365" xml:space="preserve">
+    <text x="152.36221" y="923.03143" style="text-align:end;text-anchor:end" id="tspan7367">DNC</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7369" xml:space="preserve">
+    <text x="152.36221" y="949.60626" style="text-align:end;text-anchor:end" id="tspan7371">#25</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7373" xml:space="preserve">
+    <text x="152.36221" y="976.18109" style="text-align:end;text-anchor:end" id="tspan7375">CE0</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7377" xml:space="preserve">
+    <text x="154.13387" y="1002.7559" style="text-align:end;text-anchor:end" id="tspan7379">CE1</text>
+   </g>
+   <g style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans" id="text7383" xml:space="preserve" transform="matrix(0,-1,1,0,0,0)">
+    <text x="-921.25983" y="113.38583" style="font-size:20px" id="tspan7385">Adafruit Pi Cobbler</text>
+   </g>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8699" d="m 53.149606,53.149594 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8701" d="m 53.149606,79.724397 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8703" d="m 53.149606,106.2992 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8705" d="m 53.149606,132.874 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8707" d="m 53.149606,159.44881 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8709" d="m 53.149606,186.02361 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8711" d="m 53.149606,212.59841 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8713" d="m 53.149606,239.17322 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8715" d="m 53.149606,265.74802 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8717" d="m 53.149606,292.32282 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8721" d="m 53.149606,318.89763 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8723" d="m 53.149606,345.47243 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8725" d="m 53.149606,372.04723 -26.574803,0" transform="translate(0,627.16533)"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8727" d="m 159.44882,680.31493 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8729" d="m 159.44882,706.88973 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8731" d="m 159.44882,733.46453 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8733" d="m 159.44882,760.03933 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8735" d="m 159.44882,786.61414 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8737" d="m 159.44882,813.18894 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8739" d="m 159.44882,839.76374 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8741" d="m 159.44882,866.33855 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8743" d="m 159.44882,892.91335 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8745" d="m 159.44882,919.48815 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8747" d="m 159.44882,946.06296 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8749" d="m 159.44882,972.63776 26.57481,0"/>
+   <path  style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="path8751" d="m 159.44882,999.21256 26.57481,0"/>
+  </g>
+ </g>
+</svg>
