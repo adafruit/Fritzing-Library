@@ -32,4 +32,10 @@ Arduino, developing a tool that allows users to document their prototypes,
 share them with others, teach electronics in a classroom, and to create a 
 pcb layout for professional manufacturing. 
 
-
+Fritzing started out as a publicly funded research project from 2007-2009. 
+Since 2010 development has relied on the community of users and supporters. 
+Adafruit is not a giant company (yet) but we try our best to support 
+communities, orgs, schools, companies, events, people and products that share 
+our values & goals. From sponsoring events like the Open hardware summit to 
+tools like Fritzing, it’s part of our mission to help and celebrate open 
+source. If you like Fritzing, please considering supporting them as well!
