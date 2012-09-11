@@ -18,6 +18,11 @@ standard archive utility like 7-Zip (http://www.7-zip.org/)
 Adafruit Industries is a Friend of Fritzing
 ============================================
 
+Adafruit is proud to announce we are a “Friend of Fritzing”. We’ve been making
+ a ton of Fritzing parts with [johngineer](http://www.johngineer.com) and we’ve donated to Fritzing to 
+encourage more development on this amazing project. The Fritzing team just 
+sent us over this spiffy badge!
+
 ![friendoffritzing](http://www.adafruit.com/adablog/wp-content/uploads/2012/09/friend_of_fritzing-badge-pixelopt.jpg)
 
 Fritzing is an open-source initiative to support designers, artists, 
