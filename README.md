@@ -19,9 +19,14 @@ used in Inkscape (http://www.inkscape.org) to create the parts in this library.
 While you are welcome to use these to create your own Fritzing parts, they are 
 here solely for educational purposes, and support will not be provided. 
 
+FOR BEST RESULTS: due to a change in the rendering of SVGs in new versions of 
+Fritzing, we recommend using this library with Fritzing v0.7.5. Newer versions
+may not render correctly.
+
 PLEASE NOTE: While we enthusiastically encourage you to learn from, modify and 
 re-share our Fritzing library, we are not accepting unsolicited Fritzing parts 
-for inclusion into this repo.
+for inclusion into this repo. This library is provided for educational purposes
+only.
 
 
 Adafruit Industries is a Friend of Fritzing
