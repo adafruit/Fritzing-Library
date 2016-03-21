@@ -3,6 +3,8 @@ AdaFruit Fritzing Library
 
 A library of parts for [Fritzing](http://fritzing.org/)
 
+Released under CC Attribution Share-Alike
+
 If you would like to use the entire library, then download AdaFruit.fzbz and
 open it in Fritzing (File | Open... )
 
