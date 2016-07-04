@@ -58,3 +58,9 @@ communities, orgs, schools, companies, events, people and products that share
 our values & goals. From sponsoring events like the Open hardware summit to 
 tools like Fritzing, it�s part of our mission to help and celebrate open 
 source. If you like Fritzing, please considering supporting them as well!
+
+Subparts Art Attribution
+============================================
+MicroSD Card holder art is from PigHixx
+http://www.pighixxx.com/test/portfolio-items/adafruit-feather-32u4-adalogger-pinout/?portfolioID=314
+
