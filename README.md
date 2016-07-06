@@ -61,6 +61,5 @@ source. If you like Fritzing, please considering supporting them as well!
 
 Subparts Art Attribution
 ============================================
-MicroSD Card holder art is from PigHixx
-http://www.pighixxx.com/test/portfolio-items/adafruit-feather-32u4-adalogger-pinout/?portfolioID=314
-
+MicroSD Card holder, ESP-12E module, and Bluefruit LE (MDBT40) art is from PigHixx's lovely diagrams!
+http://www.pighixxx.com/
