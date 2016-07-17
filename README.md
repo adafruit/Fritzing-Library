@@ -37,8 +37,8 @@ only.
 Adafruit Industries is a Friend of Fritzing
 ============================================
 
-Adafruit is proud to announce we are a �Friend of Fritzing�. We�ve been making
- a ton of Fritzing parts with [johngineer](http://www.johngineer.com) and we�ve donated to Fritzing to 
+Adafruit is proud to announce we are a "Friend of Fritzing". We've been making
+ a ton of Fritzing parts with [johngineer](http://www.johngineer.com) and we've donated to Fritzing to 
 encourage more development on this amazing project. The Fritzing team just 
 sent us over this spiffy badge!
 
@@ -56,7 +56,7 @@ Since 2010 development has relied on the community of users and supporters.
 Adafruit is not a giant company (yet) but we try our best to support 
 communities, orgs, schools, companies, events, people and products that share 
 our values & goals. From sponsoring events like the Open hardware summit to 
-tools like Fritzing, it�s part of our mission to help and celebrate open 
+tools like Fritzing, it's part of our mission to help and celebrate open 
 source. If you like Fritzing, please considering supporting them as well!
 
 Subparts Art Attribution
