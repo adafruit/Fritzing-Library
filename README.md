@@ -42,11 +42,11 @@ Adafruit Industries is a Friend of Fritzing
 ============================================
 
 Adafruit is proud to announce we are a "Friend of Fritzing". We've been making
- a ton of Fritzing parts with [johngineer](http://www.johngineer.com) and we've donated to Fritzing to 
+ a ton of Fritzing parts with [johngineer](https://github.com/johngineer) and we've donated to Fritzing to 
 encourage more development on this amazing project. The Fritzing team just 
 sent us over this spiffy badge!
 
-![friendoffritzing](http://www.adafruit.com/adablog/wp-content/uploads/2012/09/friend_of_fritzing-badge-pixelopt.jpg)
+![friendoffritzing](https://cdn-blog.adafruit.com/uploads/2012/09/friend_of_fritzing-badge-pixelopt.jpg)
 
 Fritzing is an open-source initiative to support designers, artists, 
 researchers and hobbyists to work creatively with interactive electronics. 
@@ -65,5 +65,5 @@ source. If you like Fritzing, please considering supporting them as well!
 
 Subparts Art Attribution
 ============================================
-MicroSD Card holder, ESP-12E module, and Bluefruit LE (MDBT40) art is from PigHixx's lovely diagrams!
-http://www.pighixxx.com/
+MicroSD Card holder, ESP-12E module, and Bluefruit LE (MDBT40) art is from [PigHixx's](http://www.pighixxx.com/) lovely diagrams!
+The pighixx site may not exist anymore but we still want to give attribution!
