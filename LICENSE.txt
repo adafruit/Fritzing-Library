@@ -1,0 +1,3 @@
+All graphics and documentation in this project are licensed under
+Creative Commons Attribution-ShareALike 3.0 Unported.
+See http://creativecommons.org/licenses/by-sa/3.0/ for the full description.
