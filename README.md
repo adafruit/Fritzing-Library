@@ -65,5 +65,5 @@ source. If you like Fritzing, please considering supporting them as well!
 
 Subparts Art Attribution
 ============================================
-MicroSD Card holder, ESP-12E module, and Bluefruit LE (MDBT40) art is from [PigHixx's](http://www.pighixxx.com/) lovely diagrams!
+MicroSD Card holder, ESP-12E module, and Bluefruit LE (MDBT40) art is from PigHixx's lovely diagrams!
 The pighixx site may not exist anymore but we still want to give attribution!
