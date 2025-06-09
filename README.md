@@ -5,7 +5,7 @@ A library of parts for [Fritzing](https://fritzing.org/)
 
 Released under [CC Attribution Share-Alike](https://creativecommons.org/licenses/by-sa/3.0/)
 
-If you would like to use the entire library, then download AdaFruit.fzbz, Adafruit_Feather.fzbz or Adafruit_Raspberry_Pi.fzbz and open it in Fritzing (File | Open... ) You can git clone or DOWNLOAD with the download button or clicking [me](https://github.com/adafruit/Fritzing-Library/archive/master.zip)
+If you would like to use the entire library, then download AdaFruit.fzbz, Adafruit_Feather.fzbz or Adafruit_Raspberry_Pi.fzbz and open it in Fritzing (File | Open... ) You can git clone or DOWNLOAD with the download button or clicking [here](https://github.com/adafruit/Fritzing-Library/archive/master.zip)
 
 If you wish to make it a permanent resident of your Fritzing parts pallete, use
 the drop-down menu in the pallette window and choose "Save Bin".
@@ -34,7 +34,7 @@ re-share our Fritzing library, we are not accepting unsolicited Fritzing parts
 for inclusion into this repo. 
    * This library is provided for educational purposes only. We do not guarantee correctness of any part!
    * To request Adafruit parts that are currently not in the repository, open up an issue. We'll try to get to it, but no ETA or promises!
-   * You can generate your own lovely files with brd2fpz, check out our tutorial at https://learn.adafruit.com/make-beautiful-fritzing-parts-with-eagle2fritzing-brd2svg
+   * You can generate your own lovely files with brd2fpz, check out our [tutorial](https://learn.adafruit.com/make-beautiful-fritzing-parts-with-eagle2fritzing-brd2svg)
 
 
 
@@ -48,12 +48,11 @@ sent us over this spiffy badge!
 
 ![friendoffritzing](https://cdn-blog.adafruit.com/uploads/2012/09/friend_of_fritzing-badge-pixelopt.jpg)
 
-Fritzing is an [open-source initiative](https://en.wikipedia.org/wiki/Open-source_hardware) to support designers, artists, 
+Fritzing is an open-source initiative to support designers, artists, 
 researchers and hobbyists to work creatively with interactive electronics. 
 We are creating a software and website in the spirit of [Processing](https://processing.org/) and 
 [Arduino](https://arduino.cc), developing a tool that allows users to document their prototypes, 
-share them with others, teach electronics in a classroom, and to create a 
-[PCB](https://en.wikipedia.org/wiki/Printed_circuit_board) layout for professional manufacturing. 
+share them with others, teach electronics in a classroom, and to create a PCB layout for professional manufacturing. 
 
 Fritzing started out as a publicly funded research project from 2007-2009. 
 Since 2010 development has relied on the community of users and supporters. 
