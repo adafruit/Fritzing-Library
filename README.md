@@ -1,4 +1,4 @@
-[AdaFruit](https://adafruit.com) Fritzing Library
+[Adafruit](https://adafruit.com) Fritzing Library
 ==========================
 
 A library of parts for [Fritzing](https://fritzing.org/)
