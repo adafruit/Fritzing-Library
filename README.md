@@ -34,7 +34,7 @@ re-share our Fritzing library, we are not accepting unsolicited Fritzing parts
 for inclusion into this repo. 
    * This library is provided for educational purposes only. We do not guarantee correctness of any part!
    * To request Adafruit parts that are currently not in the repository, open up an issue. We'll try to get to it, but no ETA or promises!
-   * You can generate your own lovely files with brd2fpz, check out our [tutorial](https://learn.adafruit.com/make-beautiful-fritzing-parts-with-eagle2fritzing-brd2svg)
+   * You can generate your own lovely files with brd2svg, check out our [tutorial](https://learn.adafruit.com/make-beautiful-fritzing-parts-with-eagle2fritzing-brd2svg)
 
 
 
