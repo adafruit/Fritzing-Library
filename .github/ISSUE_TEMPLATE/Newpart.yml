@@ -1,7 +1,5 @@
 name: New Part Template
 description: Use this template to request for a part
-labels: bug
-assignes: BlitzCityDIY
   - type: markdown
     attributes:
       value: |
