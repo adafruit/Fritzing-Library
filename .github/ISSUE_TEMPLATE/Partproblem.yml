@@ -1,6 +1,5 @@
 name: Part Error Template
 description: Use this template if there is a problem with the part
-labels: bu
 body:
   - type: markdown
     attributes:
