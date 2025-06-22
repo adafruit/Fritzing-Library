@@ -1,5 +1,6 @@
 name: New Part Template
 description: Use this template to request for a part
+body:
   - type: markdown
     attributes:
       value: |
