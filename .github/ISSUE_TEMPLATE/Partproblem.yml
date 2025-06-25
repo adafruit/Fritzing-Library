@@ -1,0 +1,22 @@
+name: Part Error Template
+description: Use this template if there is a problem with the part
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Name of the part
+  - type: textarea
+    id: product-link
+    attributes:
+      label: Product Link
+      description: Please enter the product link
+      placeholder: e.g. https://www.adafruit.com/product/1000
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What's wrong with the part?
+    validations:
+      required: true

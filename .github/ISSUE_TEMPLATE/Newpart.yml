@@ -1,0 +1,22 @@
+name: New Part Template
+description: Use this template to request for a part
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Name of the part
+  - type: textarea
+    id: product-link
+    attributes:
+      label: Product Link
+      description: Please enter the product link
+      placeholder: e.g. https://www.adafruit.com/product/1000
+    validations:
+      required: true
+  - type: textarea
+    id: eagle-files
+    attributes:
+      label: EAGLEcad Files (if any)
+      description: Paste the link to the official EAGLEcad files if any.
+    validations:
+      required: false
